@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+
+📷 [instagram][instagram] **|** 
+
