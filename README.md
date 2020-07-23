@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ## I'm DEEPAK KUMAR
-# full stack web developer
-** DEEPAKMP444**
+<a href="https://www.instagram.com/deepakmp444/">Instagram</a>
 <!--
 **deepakmp444/deepakmp444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
