@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm DEEPAK KUMAR
 # full stack web developer
-
+** DEEPAKMP444**
 <!--
 **deepakmp444/deepakmp444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-
-📷 [instagram][instagram] **|** 
 
