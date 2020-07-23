@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'm DEEPAK KUMAR
-<a href="https://www.instagram.com/deepakmp444/">Instagram</a>
+<a href="https://www.instagram.com/deepakmp444/"> :heart_decoration: Instagram</a>| <a href="https://www.instagram.com/photography_challenge10/"> :camera: Hobby</a>
 <!--
 **deepakmp444/deepakmp444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
