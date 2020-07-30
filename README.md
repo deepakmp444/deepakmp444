@@ -1,6 +1,6 @@
 # Hi there 👋
 ## :smile: I'm DEEPAK KUMAR
-### - 🔭 I’m currently working on ...React Js
+### - 🔭 I’m currently working on React Js.
 <a href="https://www.instagram.com/deepakmp444/"> :house: Instagram</a> | <a href="https://twitter.com/deepakmp444"> twitter </a> | <a href="https://www.instagram.com/photography_challenge10/"> :camera: Hobby </a> | <a href="https://www.instagram.com/shobha.bharti.16/"> :heart: </a> 
 <!--
 **deepakmp444/deepakmp444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
