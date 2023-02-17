@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer, UI/UX Developer and AR VR architect</h3>
 
 - 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **React, Express, Prisma and PostgreSQL**
+- 💬 Ask me about **React, Express, Prisma, MongoDB, PostgreSQL And AWS**
 - 📫 How to reach me **deepakmp444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
