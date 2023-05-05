@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Full Stack Developer, UI/UX Developer and AR VR architect</h3>
+<h3 align="center">Full Stack Developer and UI/UX Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+<!-- - 🌱 I’m currently learning **TypeScript** -->
 - 💬 Ask me about **React, Express, Prisma, MongoDB, PostgreSQL And AWS**
 - 📫 How to reach me **deepakmp444@gmail.com**
 
